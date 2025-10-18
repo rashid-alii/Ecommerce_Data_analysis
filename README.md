@@ -1,6 +1,6 @@
 # Ecommerce_Data_analysis
 
-![Project Learnings — interactive dashboard screenshot](images/screenshot-project-learnings.png)
+![Project Learnings — interactive dashboard screenshot](dashboard.png)
 Power Bi Dashboard 
 Developed interactive dashboards to track and analyze online sales performance.
 
